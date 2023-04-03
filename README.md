@@ -1,4 +1,4 @@
-# Windfarm Datalake
+# Windfarm Data Lake
 
 ## Steps:
 
