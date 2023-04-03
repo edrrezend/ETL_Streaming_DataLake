@@ -1,6 +1,6 @@
 # ETL_Streaming_DataLake
 
-##Steps:
+## Steps:
 
 1. Creating a data stream flow on Kinesis Data Streams.
 2. Developing Python applications to perform data streaming.
