@@ -3,7 +3,7 @@
 ## Steps:
 
 1. Creating a data stream flow on Kinesis Data Streams.
-2. Developing Python applications to perform data streaming.
+2. Developing Python applications (ipynb files) to perform data streaming.
 3. Creating a delivery stream through Kinesis Data Firehose and creating a destination bucket in S3.
 4. Running applications to populate the S3 bucket with generated data.
 5. Creating an access function in IAM.
