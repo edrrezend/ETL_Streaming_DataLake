@@ -17,6 +17,8 @@
 13. Configuring Athena to send queries to a new S3 bucket and select the database in the editor.
 14. Querying data with Athena.
 
+### Architecture
+
 ![image](https://user-images.githubusercontent.com/124625776/229630394-cbdd66bd-4e18-41ee-819d-cb050298c780.png)
 
 
