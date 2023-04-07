@@ -5,4 +5,4 @@
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false 
 *.sql linguist-detectable=true 
-*.jupyternotebook linguist-detectable=False
+*.jupyter linguist-detectable=False
